@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9774875a-a489-4337-80ef-9fe3da02e019" name="Default Changelist" comment="" />
+    <list default="true" id="9774875a-a489-4337-80ef-9fe3da02e019" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../02-hello-flutter/projects/starter/recipe/lib/pages/recipe_detail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/author_katz.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/author_katz.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/mag1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/mag2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/mag3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/mag4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/assets/mag5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/theming/fooderlich_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/cards/card1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/cards/card2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/cards/card3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/pages/desktop_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/pages/mobile_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/utils/author_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/utils/circle_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/fooderlich/lib/widgets/utils/responsive/responsive_layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/assets/15452035777_294cefced5_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/assets/15992102771_b92f4cc00a_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/assets/2126711929_ef763de2b3_w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/assets/27729023535_a57606c1be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/assets/3187380632_5056654a19_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/assets/8533381643_a31a99e8a6_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-hello-flutter/projects/final/recipes/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1oEszyDXXEXLlSoZi3hiT69NcmG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,9 +50,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
